@@ -4,16 +4,10 @@
 
 ```bash
 ├── Coursera/
-│   ├── soham/
-│   │   ├── Coursera Assignments/
-│   │   └── Coursera Notes/
 │   └── Aanchal/
 │       ├── Course1/
 │       ├── Course2/
 │       └── Course4/
-├── EDA/
-│   ├── esc-50-explore.ipynb
-│   └── esc-preprocess-and-eda.ipynb
 ├── UI/
 │   ├── test/
 │   ├── audio_ui.py
@@ -23,14 +17,10 @@
 │   ├── yamnet.onnx
 │   └── yamnet_inference.py
 ├── mini-projects/
-│   ├── Aanchal/
-│   │   ├── Audio Classification UrbanSound8k.ipynb
-│   │   ├── NN_from_scratch.ipynb
-│   │   └── Transfer learning with ResNet-50 cifar10.ipynb
-│   └── Soham/
-│       ├── Audio Classification UrbanSound8k/
-│       ├── Neural-Network-from-scratch/
-│       └── Transfer-learning-cifar10/
+│   └── Aanchal/
+│       ├── Audio Classification UrbanSound8k.ipynb
+│       ├── NN_from_scratch.ipynb
+│       └── Transfer learning with ResNet-50 cifar10.ipynb
 ├── resnets_and_efficientnets/
 │   ├── esc-dataset.ipynb
 │   ├── esc-model1_2024-08-20_18-11-09.pth
@@ -38,15 +28,8 @@
 │   ├── esc-transfer-learning2.ipynb
 │   └── esc-utils.ipynb
 ├── yamnet/
-│   ├── esc-dataset.ipynb
-│   ├── esc-dataset2.xpynb
 │   ├── esc-model1_20/
 │   ├── esc-utils.ipynb
-│   ├── esc-utils3.xpynb
-│   ├── esc-yamnet.ipynb
-│   ├── escyamnetdataset.xpynb
-│   ├── getyamnet.xpynb
-│   ├── yamnet-load.xpynb
 │   └── yamnet.ipynb
 ├── LICENSE
 └── README.md
@@ -91,8 +74,6 @@ https://github.com/user-attachments/assets/c7d5853d-6642-4652-b233-214ce93727d9
 
 ## Contributors
 - [Aanchal Borse](https://github.com/Aanchallllll)
-- [Soham Rane](https://github.com/soham30rane)
-
 
 
 ## Future Prospects
